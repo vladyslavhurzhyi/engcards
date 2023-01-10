@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/engcards/static/css/main.36593749.css",
-    "main.js": "/engcards/static/js/main.4c4844dd.js",
-    "index.html": "/engcards/index.html",
-    "main.36593749.css.map": "/engcards/static/css/main.36593749.css.map",
-    "main.4c4844dd.js.map": "/engcards/static/js/main.4c4844dd.js.map"
+    "main.css": "/englishflip/static/css/main.121181b1.css",
+    "main.js": "/englishflip/static/js/main.781017b8.js",
+    "index.html": "/englishflip/index.html",
+    "main.121181b1.css.map": "/englishflip/static/css/main.121181b1.css.map",
+    "main.781017b8.js.map": "/englishflip/static/js/main.781017b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.36593749.css",
-    "static/js/main.4c4844dd.js"
+    "static/css/main.121181b1.css",
+    "static/js/main.781017b8.js"
   ]
 }
